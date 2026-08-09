@@ -1,0 +1,14 @@
+# Virtual Environment & Python cache
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Node Modules & Build files
+node_modules/
+dist/
+build/
+
+# Environment / API Keys (IMPORTANT!)
+.env
+*.env
